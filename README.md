@@ -1,1 +1,1 @@
-# RectangularColorPalete
+# RectangularColorPalette
